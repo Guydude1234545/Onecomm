@@ -203,7 +203,5 @@ document.head.innerHTML += "<style>#results_container {color:#ffffff;} .inner_wi
 
 RecReading=true
 
-HistHexcolour=["#223f96","#38a211","#86a2a0","#928b45"]; HistName=[" One-Community-3753"," SoftShellTurtleofDoom"]; HistEV=[EDIT,THESE,0,0]; HistPV=["EDIT","THESE","NUMBERS","ONECOMM"]; HistPVP=["EDIT","THESE"," 2.1%"," 1.6%"];
-
 
 //#endcode
